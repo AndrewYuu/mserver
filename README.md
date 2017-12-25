@@ -1,2 +1,2 @@
 # mserver
-A multithreaded server for hashing data (key value pairs) from clients.
+A multithreaded server for caching data (backed by a hashmap) from clients.
